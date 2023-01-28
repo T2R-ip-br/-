@@ -1,0 +1,13 @@
+D:\C#\FinancialAnalysis\FinancialAnalysis\bin\Debug\FinancialAnalysis.exe.config
+D:\C#\FinancialAnalysis\FinancialAnalysis\bin\Debug\FinancialAnalysis.exe
+D:\C#\FinancialAnalysis\FinancialAnalysis\bin\Debug\FinancialAnalysis.pdb
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.csproj.AssemblyReference.cache
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.csproj.SuggestedBindingRedirects.cache
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.AuthorizationForm.resources
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.Properties.Resources.resources
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.csproj.GenerateResource.cache
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.csproj.CoreCompileInputs.cache
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.exe
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.pdb
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.RegistrationForm.resources
+D:\C#\FinancialAnalysis\FinancialAnalysis\obj\Debug\FinancialAnalysis.MainForm.resources

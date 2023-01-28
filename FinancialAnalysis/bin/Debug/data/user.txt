@@ -1,0 +1,2 @@
+|id:0|firstname:Владимир|lastname:Сухоев|login:admin|password:pass|accountId:0
+|id:1|firstname:bob|lastname:kor|login:pop|password:rock|accountId:1
